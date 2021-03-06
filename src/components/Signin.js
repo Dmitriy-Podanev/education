@@ -1,5 +1,5 @@
 import React from 'react';
-import './Signin.css'
+import '../assets/styles/Enter.css'
 
 export const Signin = () => {
     return (
